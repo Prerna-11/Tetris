@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   // TODO: we can also get the grid size from user
-  const GRID_WIDTH = 10
+  const GRID_WIDTH = 15
   const GRID_HEIGHT = 20
   const GRID_SIZE = GRID_WIDTH * GRID_HEIGHT
 
